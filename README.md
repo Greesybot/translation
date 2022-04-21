@@ -1,4 +1,4 @@
-• **In order to add new languages the bot, add the language of the country as Languages/Country Code.json**
+• **In order to add new languages the bot, add the language of the country as Languages/Country Code.js**
 
 *📌 • Now Supported Languages;*
 
